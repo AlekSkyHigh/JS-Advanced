@@ -1,2 +1,1 @@
-# JS-Advanced
-Software University Training
+# Software University Training
